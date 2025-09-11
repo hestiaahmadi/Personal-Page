@@ -1,0 +1,65 @@
+body {
+  padding: 10px;
+  background-color: #efdcb5ff;
+}
+
+h1 {
+  font-family: verdana;
+}
+
+h2 {
+  font-family: verdana;
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: verdana;
+  font-size: 1.3rem;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  float: left;
+  padding: 20px 10px;
+}
+
+h3 {
+  font-family: verdana;
+  font-size: 1.5rem;
+}
+
+table,
+th,
+td {
+  font-family: verdana;
+  font-size: 1.2rem;
+  padding: 10px 10px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+th {
+  text-align: left;
+  border-radius: 10px;
+}
+
+td {
+  text-align: left;
+  border-radius: 10px;
+}
+
+h4 {
+  font-family: verdana;
+  font-size: 1.5rem;
+}
+
+form {
+  font-family: verdana;
+  font-size: 1.3rem;
+}
+
+footer {
+  font-size: 1.2rem;
+}
